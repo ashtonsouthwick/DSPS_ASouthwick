@@ -1,3 +1,3 @@
 DSPS Homework 4
 
-Contributors: Ashton Southwick with assistance from ChatGPT
+Contributors: Ashton Southwick with assistance from ChatGPT (refining functions)
