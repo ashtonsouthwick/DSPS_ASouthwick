@@ -1,3 +1,3 @@
 DSPS Homework 2
 
-Contributors - Ashton Southwick
+Contributors - Ashton Southwick, followed up and compared a few things with Amanda Swenson
