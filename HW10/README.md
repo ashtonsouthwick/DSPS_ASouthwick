@@ -1,4 +1,4 @@
-Collaborators: Just myself
+Collaborators: Just myself for the deepdream notebook, but TJ helped me out with the convolutional neural network notebook.
 
 ## Images:
 
