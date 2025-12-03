@@ -14,6 +14,9 @@ Bad:
 
 Shows many overplotted spectra from the same object, essentially a time series of the object's spectrum. The colorbar indicates the MJD, where purple is the earliest observation, and yellow indicates the latest. If it showed a clear time series evolution (e.g. the spectrum getting fainter/brighter as time passed), it would be a better plot.
 
+# ORIGINAL PLOT #
+
+<img width="860" height="858" alt="image" src="https://github.com/user-attachments/assets/6b8c766d-1872-410b-99de-4ac53289d6c1" />
 
 
 # UPDATED PLOT #
