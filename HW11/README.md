@@ -1,0 +1,1 @@
+Contributors: Ashton Southwick. I had the Gemini assistant help me with the syntax for some of the layers, specifically the MaxPooling2D inputs, but I tried my best to stay away from AI for this homework.
